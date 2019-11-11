@@ -1,4 +1,4 @@
-# GoSeaFloor App Technical support:
+# PelicanPlay App Technical support:
 
-GoSeaFloor App Technical support:
-If you have any questions, please contact email: Samantha73890@gmail.com
+PelicanPlay App Technical support:
+If you have any questions, please contact email: raynlewis32@gmail.com
