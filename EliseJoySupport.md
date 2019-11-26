@@ -1,5 +1,5 @@
-# ThingLearn App Technical support:
+# EliseJoy App Technical support:
 
-ThingLearn App Technical support:
-If you have any questions, please contact email: bao8998@sina.com or alacom520@gmail.com
+EliseJoy App Technical support:
+If you have any questions, please contact email: kg6fzjy@163.com
 
