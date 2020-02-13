@@ -1,7 +1,7 @@
-TrainWhine
+Big Mouth
 Privacy Policy of TrainWhine
 
-TrainWhine ("us", "we", or "our") operates the TrainWhine mobile application (hereinafter referred to as the "Service").
+Big Mouth ("us", "we", or "our") operates the TrainWhine mobile application (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for TrainWhine is created with the help of the PrivacyPolicies.com Privacy Policy Generator.
 
@@ -86,4 +86,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: kouding200010@126.com
+By email: MontagueHuberynWdDpU@yahoo.com
