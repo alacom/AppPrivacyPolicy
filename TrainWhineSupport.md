@@ -1,5 +1,5 @@
-# TrainWhine App Technical support:
+# MouthSDK App Technical support:
 
-TrainWhine App Technical support:
-If you have any questions, please contact email: kouding200010@126.com
+MouthSDK App Technical support:
+If you have any questions, please contact email: MontagueHuberynWdDpU@yahoo.com
 
