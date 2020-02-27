@@ -1,5 +1,5 @@
-# SoboPlay App Technical support:
+# Potato lele App Technical support:
 
-SoboPlay App Technical support:
-If you have any questions, please contact email: BoyceMirabelleuBzBl@yahoo.com
+Potato lele App Technical support:
+If you have any questions, please contact email: ueahmdqk3685@gmail.com
 
