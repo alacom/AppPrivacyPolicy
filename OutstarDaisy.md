@@ -2,7 +2,6 @@ OutstarDaisy
 Privacy Policy of OutstarDaisy
 
 OutstarDaisy ("us", "we", or "our") operates the OutstarDaisy mobile application (hereinafter referred to as the "Service").
-
 The application respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, the application will use and disclose your personal information in accordance with the provisions of this privacy policy. However, the application will treat such information with a high degree of diligence and prudence. Unless otherwise provided in this privacy policy, the application will not disclose or provide such information to any third party without your prior permission. This application will update this privacy policy from time to time. By agreeing to this application service usage agreement, you are deemed to have agreed to all contents of this privacy policy. This privacy policy is an integral part of the application service usage agreement.
 
 1. Scope of application
@@ -85,3 +84,4 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
 By email: byzzbu@163.com
+
