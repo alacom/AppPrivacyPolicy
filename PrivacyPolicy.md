@@ -84,4 +84,4 @@ Party b discloses its personal information, such as contact information or posta
 Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: byzzbu@163.com
+By email: BuddhismFate@163.com
